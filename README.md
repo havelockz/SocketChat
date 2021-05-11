@@ -12,6 +12,3 @@ A simple Client-Server chat application written in C# &amp; WPF.
 - **Extended.Wpf.Toolkit**
   - Nuget: https://www.nuget.org/packages/Extended.Wpf.Toolkit/
   - Github Repo: https://github.com/xceedsoftware/wpftoolkit
-
-## Continuous Integration: 
-- AppVeyor: [![Build status](https://ci.appveyor.com/api/projects/status/n9iypj68vtkogj8b?svg=true)](https://ci.appveyor.com/project/Kolahzary/socketchat)
